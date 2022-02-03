@@ -2,9 +2,9 @@
 
 Generate daily updated visualizations of user and repository statistics from the GitHub [GraphQL](https://docs.github.com/en/graphql) and [REST](https://docs.github.com/en/rest) APIs using GitHub [Actions](https://docs.github.com/en/actions) and [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for any combination of private and public repositories - dark mode supported.
 
-![GitStats Overview - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/R055A/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
+![GitStats Overview - Light](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
 
-> This is a modification of [`jstrieb/github-stats`](https://github.com/jstrieb/github-stats) with many additional statistics, options and dark mode support
+> This is a modification of [`R055A/github-stats`](https://github.com/R055A/GitStats)
 
 By default, statistical data for GitHub repositories an authenticated user either owns, has collaborative access to, or has 
 otherwise contributed to are fetched from the GitHub API for visualization. 
@@ -92,11 +92,6 @@ It also seems that statistics for contributions to GitHub repositories that an a
       ![](https://raw.githubusercontent.com/<username>/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/<username>/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)
       ```
    2. For websites, use the **raw** image URLs for any suitable image from the above [View Generated Statistics](#view-generated-statistics) links.
-      > Note: I have not used the images on any website other than the following GitHub pages:
-      > > [https://r055a.github.io/profile/statistics/](https://r055a.github.io/profile/statistics/)
-      > 
-      > > [https://r055a.github.io/university-projects/statistics/](https://r055a.github.io/university-projects/statistics/)
-    
 </details>
 
 ## Statistics Options
@@ -240,8 +235,10 @@ It also seems that statistics for contributions to GitHub repositories that an a
     * `2021-04-01`
 </details>
 
-## Support the Project
+## Support the Project that started all this!
 
+[`jstrieb`](https://github.com/jstrieb) 's work was the foundation that made all these kind of repos possible.
+   
 There are a few things you can do to support the project:
 
 - Star the repository (and follow me and/or [`jstrieb`](https://github.com/jstrieb) on GitHub for more)
