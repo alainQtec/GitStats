@@ -1,6 +1,6 @@
 # [GitHub Stats Visualization](https://github.com/R055A/GitStats)
 
-Generate daily updated visualizations of user and repository statistics from the GitHub [GraphQL](https://docs.github.com/en/graphql) and [REST](https://docs.github.com/en/rest) APIs using GitHub [Actions](https://docs.github.com/en/actions) and [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for any combination of private and public repositories - dark mode supported.
+Generates daily updated visualizations of repository and user stats from the GitHub [GraphQL](https://docs.github.com/en/graphql) and [REST](https://docs.github.com/en/rest) APIs using GitHub [Actions](https://docs.github.com/en/actions) and [Secrets](https://docs.github.com/en/actions/security-guides/encrypted-secrets) for any combination of private and public repositories - dark mode supported.
 
 ![GitStats Overview - Light](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewLightMode.svg#gh-light-mode-only)![GitStats Overview - Dark](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/overviewDarkMode.svg#gh-dark-mode-only)![GitStats Languages - Light](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesLightMode.svg#gh-light-mode-only)![GitStats Languages - Dark](https://raw.githubusercontent.com/alainQtec/GitStats/actions_branch/generated_images/languagesDarkMode.svg#gh-dark-mode-only)
 
